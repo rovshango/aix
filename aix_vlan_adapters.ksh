@@ -1,7 +1,7 @@
 #!/usr/bin/ksh
 #
 # If AIX system has physical network adapters,
-# with following "for" "loop" you can extract list of Aggregated, VLAN interfaces with IP address
+# with following "for loop" you can extract list of Aggregated VLAN interfaces with IP address
 #
 ################################################################################
 # 02/06/2020 | Rovshan Pashayev     | v1.1   | Comments added
