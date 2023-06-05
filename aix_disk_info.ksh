@@ -1,9 +1,9 @@
 #!/usr/bin/ksh
 #
-#              Total AIX SYSTEM disk information
-#              =================================
+#              AIX SYSTEM disk information
+#              ===========================
 #
-# THIS SCRIPT WILL PROVIDE FOLLOWING INFORMATION PER HDISK
+# THIS SCRIPT WILL PROVIDE FOLLOWING INFORMATION PER (ALL) HDISK
 # - HDISK NAME
 # - VOLUME GROUP NAME
 # - VOLUME GROUP MODE
